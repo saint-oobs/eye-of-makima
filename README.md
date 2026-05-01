@@ -5,17 +5,17 @@
 <img src="https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/status-active-22c55e?style=for-the-badge" />
 
-# 🛡️ `[BOT NAME]`
+# 🛡️ `Eye of Makima`
 
-**[ONE LINE DESCRIPTION — what the bot does and who it's for]**
+**A moderation bot with plenty other features**
 
-[Invite `[BOT NAME]`](#) · [Support Server](#) · [Report a Bug](#)
+[Invite `Eye of Makima`](#) · [Support Server](#) · [Report a Bug](#)
 
 </div>
 
 ---
 
-## What `[BOT NAME]` Does
+## What `Eye of Makima` Does
 
 [2–3 sentence overview of the bot's purpose and value to a server. Describe the problem it solves and the type of communities it's built for.]
 
