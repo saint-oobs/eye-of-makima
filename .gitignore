@@ -1,0 +1,68 @@
+# ── Environment ───────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+*.so
+.installed.cfg
+lib/
+lib64/
+
+# ── Virtual environments ──────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+.uv/
+
+# ── Database ──────────────────────────────────────────────────
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# ── Logs ──────────────────────────────────────────────────────
+logs/
+*.log
+
+# ── Backups ───────────────────────────────────────────────────
+data/backups/
+
+# ── IDE / Editor ──────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ── Testing ───────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ── Type checking ─────────────────────────────────────────────
+.mypy_cache/
+.pyright/
+.ruff_cache/
+
+# ── uv / pip ──────────────────────────────────────────────────
+uv.lock
+pip-wheel-metadata/
