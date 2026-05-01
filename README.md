@@ -17,7 +17,7 @@
 
 ## What `Eye of Makima` Does
 
-[2–3 sentence overview of the bot's purpose and value to a server. Describe the problem it solves and the type of communities it's built for.]
+This is a modular, production-grade Discord moderation and security bot built with `discord.py`. It is designed for communities that need real, sustained control over their server — not a basic starter bot.
 
 ---
 
